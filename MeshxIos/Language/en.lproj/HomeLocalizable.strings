@@ -1,0 +1,24 @@
+/* 
+  HomeLocalizable.strings
+  MeshXIos
+
+  Created by xiaozhu on 2018/7/6.
+  Copyright © 2018年 xiaozhu. All rights reserved.
+*/
+
+"Home" = "Chats";
+"Details" = "Details";
+"No chat information~" = "No chat information~";
+"Search History" = "Search History";
+"Clear Chat History" = "Clear Chat History";
+"Chat History" = "Chat History";
+"related message(s)" = "related message(s)";
+"Clear" = "Clear";
+"Scan" = "Scan";
+"Album" = "Album";
+"Flash" = "Flash";
+"Align QR Code Scan" = "Align QR Code/barcode within frame to scan";
+"QR Code Info" = "QR Code Info";
+"Copy" = "Copy";
+"SendAMessage" = "SendAMessage";
+"No Result" = "No Result";

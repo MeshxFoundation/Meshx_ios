@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" accessoryType="disclosureIndicator" indentationWidth="10" rowHeight="59" id="KGk-i7-Jjw" customClass="JMMyProfileCell">
+            <rect key="frame" x="0.0" y="0.0" width="326" height="59"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="292" height="58.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="fuE-5e-5EP">
+                        <rect key="frame" x="10" y="56.5" width="290" height="1"/>
+                        <color key="backgroundColor" white="0.94577365449999995" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="1" id="Dov-xY-Xze"/>
+                        </constraints>
+                    </view>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="title" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="b3d-xc-TQ1">
+                        <rect key="frame" x="10" y="19" width="29" height="21"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="name" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="odS-uC-epq">
+                        <rect key="frame" x="250" y="19" width="42" height="21"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="uke-GT-dax">
+                        <rect key="frame" x="263.5" y="15" width="28.5" height="29"/>
+                        <constraints>
+                            <constraint firstAttribute="width" secondItem="uke-GT-dax" secondAttribute="height" multiplier="1:1" id="iZd-Lh-jQb"/>
+                        </constraints>
+                    </imageView>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="uke-GT-dax" secondAttribute="trailing" id="1c5-dm-qZ7"/>
+                    <constraint firstItem="fuE-5e-5EP" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="10" id="91c-Yi-KZo"/>
+                    <constraint firstItem="b3d-xc-TQ1" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" id="9kl-fW-iwa"/>
+                    <constraint firstItem="odS-uC-epq" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" id="A7r-qK-hnr"/>
+                    <constraint firstItem="uke-GT-dax" firstAttribute="height" secondItem="H2p-sc-9uM" secondAttribute="height" multiplier="1/2" id="FfX-xe-OWd"/>
+                    <constraint firstItem="b3d-xc-TQ1" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="10" id="L4O-cT-kL2"/>
+                    <constraint firstAttribute="right" secondItem="fuE-5e-5EP" secondAttribute="rightMargin" id="eAn-Qp-rhH"/>
+                    <constraint firstItem="uke-GT-dax" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" id="p95-rl-qmQ"/>
+                    <constraint firstAttribute="trailing" secondItem="odS-uC-epq" secondAttribute="trailing" id="pgi-48-GdA"/>
+                    <constraint firstAttribute="bottom" secondItem="fuE-5e-5EP" secondAttribute="bottom" constant="1" id="vNK-Si-Mxv"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="aW0-zy-SZf"/>
+            <connections>
+                <outlet property="iconImageView" destination="uke-GT-dax" id="WOt-UW-Kgc"/>
+                <outlet property="nameLabel" destination="odS-uC-epq" id="grV-kH-QA9"/>
+                <outlet property="nameLabelRightConstraint" destination="pgi-48-GdA" id="6eZ-GI-Vx7"/>
+                <outlet property="titleLabel" destination="b3d-xc-TQ1" id="AEc-E2-I9V"/>
+            </connections>
+            <point key="canvasLocation" x="45" y="67.5"/>
+        </tableViewCell>
+    </objects>
+</document>

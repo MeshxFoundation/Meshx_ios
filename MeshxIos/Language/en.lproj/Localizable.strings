@@ -1,0 +1,465 @@
+/* 
+  Localizable.strings
+  MeshXIos
+
+  Created by xiaozhu on 2018/7/6.
+  Copyright © 2018年 xiaozhu. All rights reserved.
+*/
+
+
+
+
+/* No comment provided by engineer. */
+"Keystore" = "Keystore";
+
+/* No comment provided by engineer. */
+"Keystore密码" = "Password";
+
+/* No comment provided by engineer. */
+"Mesh地址" = "Mesh Addr";
+
+/* No comment provided by engineer. */
+"Mesh成功，广播中" = "Mesh Success，Pending...";
+
+/* No comment provided by engineer. */
+"一旦丢失将无法找回!" = "Cannot reback";
+
+/* No comment provided by engineer. */
+"下一步" = "Next";
+
+/* No comment provided by engineer. */
+"两次密码不一致" = "Password not equal";
+
+/* No comment provided by engineer. */
+"二维码" = "QRCode";
+
+/* No comment provided by engineer. */
+"二维码生成信息不能为空" = "Message is NULL";
+
+/* No comment provided by engineer. */
+"交易备注" = "Note";
+
+/* No comment provided by engineer. */
+"钱包密码" = "Pwd";
+
+/* No comment provided by engineer. */
+"钱包密码错误" = "Pwd Error";
+
+/* No comment provided by engineer. */
+"交易市值 ￥0.0" = "Money ￥0.0";
+
+/* No comment provided by engineer. */
+"交易记录" = "Records";
+
+/* No comment provided by engineer. */
+"交易详情" = "Transaction Record";
+
+/* No comment provided by engineer. */
+"人民币" = "CNY";
+
+/* No comment provided by engineer. */
+"从相册选取" = "Library";
+
+/* No comment provided by engineer. */
+"修改" = "Edit";
+
+/* No comment provided by engineer. */
+"分享失败" = "Error";
+
+/* No comment provided by engineer. */
+"分享成功" = "Success";
+
+/* No comment provided by engineer. */
+"分享给你" = "Share";
+
+/* No comment provided by engineer. */
+" 创建成功" = " Created";
+
+/* No comment provided by engineer. */
+"删除" = "Delete";
+
+/* No comment provided by engineer. */
+"删除提示！" = "Deleted!";
+
+/* No comment provided by engineer. */
+"助记词" = "Mnemonic";
+
+/* No comment provided by engineer. */
+"助记词 %@ 有误" = "Error Mnemonic: %@";
+
+/* No comment provided by engineer. */
+"助记词个数有误" = "Need 12 Mnemonics";
+
+/* No comment provided by engineer. */
+"助记词有误" = "Mnemonic Error";
+
+/* No comment provided by engineer. */
+"助记词用于恢复钱包或重置钱包密码，将它准确地抄写到纸上，并存放在只有你知道的安全的地方。" = "Mnemonic is used to recover your wallet or reset password, write it on paper, and put it in safe place where you know it.";
+
+/* No comment provided by engineer. */
+"助记词验证错误" = "Verify Phrase Error";
+
+/* No comment provided by engineer. */
+"去开启" = "Open";
+
+/* No comment provided by engineer. */
+"取消" = "Cancel";
+
+/* No comment provided by engineer. */
+"名称" = "Name";
+
+/* No comment provided by engineer. */
+"啦啦啦啦啦啦啦" = "for test";
+
+/* No comment provided by engineer. */
+"在此粘贴以太坊钱包Keystore文件内容。或通过生成keystore内容的二维码，扫描录入。" = "Cppy Keystore JSON, Or scan the QRcode。";
+
+/* No comment provided by engineer. */
+"在此输入助记词，用空格分隔" = "Enter phrase deliver by space.";
+
+/* No comment provided by engineer. */
+"在此输入明文私钥" = "Enter privtekey";
+
+/* No comment provided by engineer. */
+"填入Gas ,推荐范围100000" = "Gas ,(About)100000";
+
+/* No comment provided by engineer. */
+"填入Gas Price,推荐范围1~20" = "Gas Price,(About)1~20";
+
+/* No comment provided by engineer. */
+"填入钱包密码" = "Pwd";
+
+/* No comment provided by engineer. */
+"填入接收钱包地址（可扫描）" = "Enter Receiver's Address（Or Scan）";
+
+/* No comment provided by engineer. */
+"填入数量" = "value";
+
+/* No comment provided by engineer. */
+"备份/导出钱包" = "Backup/Export";
+
+/* No comment provided by engineer. */
+"备份助记词" = "Backup";
+
+/* No comment provided by engineer. */
+"复制Keystore" = "Copy Keystore";
+
+/* No comment provided by engineer. */
+"复制地址" = "Copy Address";
+
+/* No comment provided by engineer. */
+"复制成功" = "Copied";
+
+/* No comment provided by engineer. */
+"复制明文私钥" = "Copy Private key";
+
+/* No comment provided by engineer. */
+"安全警告：私钥未经加密，导出存在风险，建议使用Keystore进行备份。" = "Warning：Private key is not safe，Keystore backup recommend";
+"安全警告：数据未经加密，截屏导出存在风险，建议使用Keystore进行备份。" = "Warning：Screenshot is not safe，Keystore backup recommend";
+
+/* No comment provided by engineer. */
+"完成" = "Done";
+
+/* No comment provided by engineer. */
+"官方钱包" = "Keystore";
+
+/* No comment provided by engineer. */
+"密码" = "PWD";
+
+/* No comment provided by engineer. */
+"密码太弱" = "Password must be 8 characters or longer.";
+
+/* No comment provided by engineer. */
+"密码提示" = "Hint";
+
+/* No comment provided by engineer. */
+"密码提示（可不填）" = "Hint（Optional）";
+
+/* Import Existing Account */
+"导入钱包" = "Import";
+
+/* No comment provided by engineer. */
+"导出Keystore" = "Export Keystore";
+
+/* No comment provided by engineer. */
+"导出明文私钥" = "Export Private Key";
+
+/* No comment provided by engineer. */
+"将二维码放入框内，即可自动扫描" = "Focus on QRcode and scan automatically.";
+
+/* No comment provided by engineer. */
+"将无法撤销操作" = "Cannot be undone";
+
+/* No comment provided by engineer. */
+"已复制到剪贴板" = "Copied";
+
+/* No comment provided by engineer. */
+"开启相机才能扫描二维码哦" = "need camera authorization";
+
+/* No comment provided by engineer. */
+"强烈建议备份并妥善保管mxt秘钥和钱包钱包密码，否则一旦丢失将无法找回！" = "strongly recommended to back up，otherwise it will not be recovered once it is lost！";
+
+/* No comment provided by engineer. */
+"忘记密码？" = "...？";
+
+/* No comment provided by engineer. */
+"总计耗费" = "Total cost";
+
+/* No comment provided by engineer. */
+"总资产（RMB）" = "Assets（RMB）";
+
+/* No comment provided by engineer. */
+"您还没有钱包哦！" = "You don't have a wallet yet.";
+
+/* No comment provided by engineer. */
+"抄写下你的钱包助记词" = "Write down your wallet mnemonic.";
+
+/* No comment provided by engineer. */
+"接收钱包地址" = "Receiver's Address";
+
+/* No comment provided by engineer. */
+"提示" = "Note";
+
+/* No comment provided by engineer. */
+"收款" = "Receive";
+
+/* No comment provided by engineer. */
+"收款地址" = "Receive address";
+
+/* Create New Account */
+"新建钱包" = "Create";
+
+/* No comment provided by engineer. */
+"无法识别该二维码" = "Cannot recognize the qr code.";
+
+/* No comment provided by engineer. */
+"明文私钥" = "PrivateKey";
+
+/* Hey Buddy\nCome On\n Create/Reback your fastest wallet */
+"来吧\n创建或恢复您的快钱包" = "Come on\n create or restore your quickly wallet.";
+
+/* No comment provided by engineer. */
+"正在导入..." = "Importing...";
+
+/* No comment provided by engineer. */
+"残忍拒绝" = "Refuse";
+
+/* No comment provided by engineer. */
+"测试数据" = "Test";
+
+/* No comment provided by engineer. */
+"添加新资产" = "Add new assets";
+
+/* No comment provided by engineer. */
+"矿工奖励" = "Mining Fee";
+
+/* No comment provided by engineer. */
+"确定" = "OK";
+
+/* No comment provided by engineer. */
+"确认" = "OK";
+
+/* No comment provided by engineer. */
+"确认你的钱包助记词" = "Make sure you remember mnemonic";
+
+/* No comment provided by engineer. */
+"删除钱包" = "Delete";
+
+/* No comment provided by engineer. */
+"确认导入" = "Confirm to import";
+
+/* No comment provided by engineer. */
+"确认新建" = "Confirm to create";
+
+/* No comment provided by engineer. */
+"确认转账" = "Confirm to send";
+
+/* No comment provided by engineer. */
+"稍后再说" = "Later";
+
+/* No comment provided by engineer. */
+"简体中文" = "Simplified Chinese";
+
+/* No comment provided by engineer. */
+"编辑" = "edit";
+
+/* No comment provided by engineer. */
+"美元" = "USD";
+
+/* No comment provided by engineer. */
+"设置钱包密码" = "Password";
+
+/* No comment provided by engineer. */
+"该信息不是钱包地址" = "It is not the wallet address.";
+
+/* No comment provided by engineer. */
+"语言切换" = "Language";
+
+/* No comment provided by engineer. */
+"请先新建钱包！" = "Create a new wallet first!";
+
+/* No comment provided by engineer. */
+"请填入..." = "Please enter...";
+
+/* No comment provided by engineer. */
+"请妥善保管钱包密码，" = "Please keep the password properly.";
+
+/* No comment provided by engineer. */
+"请按顺序点击助记词，以确认你的备份正确。" = "Click the mnemonic word in order to make sure your backup is correct.";
+
+/* No comment provided by engineer. */
+"请设置一个不小于8位的钱包密码" = "Enter password at least 8 characaters";
+
+/* No comment provided by engineer. */
+"请输入Gas" = "Gas";
+
+/* No comment provided by engineer. */
+"请输入Gas Price" = "Gas Price";
+
+/* No comment provided by engineer. */
+"请输入钱包密码" = "Enter PWD";
+
+/* No comment provided by engineer. */
+"请输入数量" = "Enter Value";
+
+/* No comment provided by engineer. */
+"请输入钱包名称" = "Enter Name";
+
+/* No comment provided by engineer. */
+"请输入钱包地址" = "Enter Address";
+
+/* No comment provided by engineer. */
+"请选择备份/导出钱包方式" = "Select backup/export wallet";
+
+/* No comment provided by engineer. */
+"请选择系统语言" = "Select language";
+
+/* No comment provided by engineer. */
+"请选择货币单位" = "Select unit";
+
+/* No comment provided by engineer. */
+"账户不存在" = "The account does not exist";
+
+/* No comment provided by engineer. */
+"货币单位" = "Unit";
+
+/* No comment provided by engineer. */
+"转账" = "Send";
+
+/* No comment provided by engineer. */
+"交易成功" = "Success";
+"交易失败" = "Failed";
+
+/* No comment provided by engineer. */
+"转账数量" = "Amount";
+
+/* No comment provided by engineer. */
+"输入不小于8位的钱包密码" = "Enter password";
+
+/* No comment provided by engineer. */
+"输入钱包密码" = "Enter Password";
+
+/* No comment provided by engineer. */
+"输入密码提示（可不填）" = "Enter Hint（Optional）";
+
+/* No comment provided by engineer. */
+"输入钱包名称" = "Enter name";
+
+/* No comment provided by engineer. */
+"重复" = "Repeat";
+
+/* No comment provided by engineer. */
+"默认" = "Default";
+
+/* No comment provided by engineer. */
+"重复钱包密码" = "Repeat";
+
+/* No comment provided by engineer. */
+"重复钱包钱包密码" = "Repeat";
+
+/* No comment provided by engineer. */
+"重要提示：1.请离线保存；2.请勿使用网络传输；3.二维码禁止保存、截图和拍照，确保在四周无人和摄像头环境下扫码。" = "Important note: 1. Please keep it offline; 2. Do not use network transmission; 3. The qr code is forbidden to save, screenshots and photos to ensure that no one is scanning the code in the surrounding area.";
+
+/* No comment provided by engineer. */
+"重要操作验证" = "Password verification";
+
+/* No comment provided by engineer. */
+"钱包二维码" = "Wallet QRCode";
+
+/* No comment provided by engineer. */
+"钱包切换" = "Switch wallet";
+
+/* No comment provided by engineer. */
+"钱包删除后，将无法撤销操作，请确保已备份钱包私钥！" = "After wallet is deleted,Cannot be undone,Please make sure wallet has been backed up.";
+
+/* No comment provided by engineer. */
+"钱包名称" = "Name";
+
+/* No comment provided by engineer. */
+"钱包地址" = "Address";
+
+/* No comment provided by engineer. */
+"暂无交易记录" = "No transactions found";
+
+/* No comment provided by engineer. */
+"Gas Limit太低" = "Gas Limit too low";
+
+/* No comment provided by engineer. */
+"Gas Limit太低,已改为最低预估:" = "Gas Limit too low, need about：";
+
+/* No comment provided by engineer. */
+"创建或导入您的钱包" = "Create/Import your wallet";
+
+/* No comment provided by engineer. */
+"默认" = "Default";
+"总资产" = "Total Assets";
+"扫描" = "Scan";
+"  转账" = "  Send";
+"  收款" = "  Recv.";
+"余额" = "Balance";
+"慢" = "Slow";
+"快" = "Fast";
+"创建中..." = "Creating...";
+"收款金额" = "Amount";
+"收款数量" = "Amount";
+"复制" = "Copy";
+"取消" = "Cancel";
+"发现剪贴板地址" = "Found Clipboard Address";
+"发现已注册地址" = "Found Registered Address";
+"扫描二维码"= "Scanning for QR code...";
+"相机不可用"= "Camera disabled";
+"搜索中..."= "Searching...";
+"识别中..."= "Analysing Photo...";
+"未找到以太坊域名"= "ENS name not registered.";
+"未找到二维码"= "No QR code found.";
+"输入以太坊域名"= "Enter an ENS name";
+"请在设置中启用相机" = "Please enable the camera in your settings to scan QR codes.";
+"请在设置中启用相册" = "Please enable photos in your settings to scan QR codes from your camera roll.";
+"搜索以太坊域名" = "Lookup ENS name";
+"查询交易" = "Transaction";
+"管理" = "Manager";
+
+/*交易记录详情*/
+"交易类型" = "Type";
+"付款钱包" = "From";
+"收款钱包" = "To";
+"交易时间" = "Time";
+"交易备注" = "Memo";
+"网络" = "Network";
+"区块高度" = "Block #";
+"交易号" = "Transaction #";
+"密码验证中..." = "Verify password...";
+"自定义Gas Limit,ETH转账为21000,代币或合约按需填写" = "Custom Gas";
+"自定义Gas Price,一般为(20~100)Gwei" = "Custom Gas Price";
+"广播中" = "Pending";
+"费用核算中..." = "estimate gas...";
+
+"汇率转换" = "Select currency";
+"添加资产" = "Add assets";
+"扫描二维码支付" = "Scan QRCode to pay";
+"设置收款金额" = "Set the payAccount";
+"收款数量" = "payAccount";
+"复制支付地址" = "copy payAddress";
+
+"*密码用于保护私钥和交易授权" = "*Password is used to protect private keys and transaction authorization";
+"*Meshx将不会存储密码,请务必谨记" = "*Meshx will not store passwords, please be sure to remember";

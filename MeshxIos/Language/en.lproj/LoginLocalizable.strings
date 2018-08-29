@@ -1,0 +1,22 @@
+/* 
+  LoginLocalizable.strings
+  MeshXIos
+
+  Created by xiaozhu on 2018/7/6.
+  Copyright © 2018年 xiaozhu. All rights reserved.
+*/
+
+"Username" = "Username";
+"Password" = "Password";
+"Log In" = "Log In";
+"Enter Password" = "Enter Password";
+"Enter Username" = "Enter Password";
+"Sign Up" = "Sign Up";
+"Forget Password" = "Forget Password";
+"Confirm Password" = "Confirm Password";
+"Inconsistent Password" = "The password is inconsistent with the confirmation password";
+"Registration failed" = "Registration failed";
+"Registration timeout" = "Registration timeout";
+"RegistrationFailedUserAlreadyExists" = "Registration failed, the user already exists";
+"Not connected to the server" = "Not connected to the server";
+"Login failed" = "Login failed";

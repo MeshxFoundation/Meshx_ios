@@ -1,0 +1,90 @@
+PODS:
+  - BGFMDB (2.0.12):
+    - BGFMDB/BG (= 2.0.12)
+    - BGFMDB/FMDB (= 2.0.12)
+  - BGFMDB/BG (2.0.12):
+    - BGFMDB/FMDB
+  - BGFMDB/FMDB (2.0.12)
+  - CocoaLumberjack (3.4.2):
+    - CocoaLumberjack/Default (= 3.4.2)
+    - CocoaLumberjack/Extensions (= 3.4.2)
+  - CocoaLumberjack/Default (3.4.2)
+  - CocoaLumberjack/Extensions (3.4.2):
+    - CocoaLumberjack/Default
+  - DZNEmptyDataSet (1.8.1)
+  - LBXScan (2.3):
+    - LBXScan/All (= 2.3)
+  - LBXScan/All (2.3):
+    - LBXScan/Types (~> 2.2)
+    - ZBarSDK (~> 1.3.1)
+  - LBXScan/Types (2.3)
+  - libidn (1.35)
+  - Masonry (1.0.2)
+  - MBProgressHUD (1.1.0)
+  - RealReachability (1.2.2):
+    - RealReachability/Connection (= 1.2.2)
+    - RealReachability/Ping (= 1.2.2)
+  - RealReachability/Connection (1.2.2)
+  - RealReachability/Ping (1.2.2)
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+  - SVProgressHUD (2.2.5)
+  - Toast (4.0.0)
+  - YYCategories (1.0.4):
+    - YYCategories/no-arc (= 1.0.4)
+  - YYCategories/no-arc (1.0.4)
+  - YYModel (1.0.4)
+  - ZBarSDK (1.3.1)
+
+DEPENDENCIES:
+  - BGFMDB (~> 2.0.8)
+  - CocoaLumberjack (~> 3.4.2)
+  - DZNEmptyDataSet (~> 1.8.1)
+  - LBXScan (~> 2.3)
+  - libidn (~> 1.35)
+  - Masonry (~> 1.0.2)
+  - MBProgressHUD (~> 1.1.0)
+  - RealReachability (~> 1.2.2)
+  - SDWebImage (~> 3.7.5)
+  - SVProgressHUD (~> 2.2.5)
+  - Toast (~> 4.0.0)
+  - YYCategories (~> 1.0.4)
+  - YYModel (~> 1.0.4)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BGFMDB
+    - CocoaLumberjack
+    - DZNEmptyDataSet
+    - LBXScan
+    - libidn
+    - Masonry
+    - MBProgressHUD
+    - RealReachability
+    - SDWebImage
+    - SVProgressHUD
+    - Toast
+    - YYCategories
+    - YYModel
+    - ZBarSDK
+
+SPEC CHECKSUMS:
+  BGFMDB: cd5e468218d4c7345862d814d313c0888db3a66a
+  CocoaLumberjack: db7cc9e464771f12054c22ff6947c5a58d43a0fd
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  LBXScan: e51449f0832d1fe17da632af0d22adeb3cfa3543
+  libidn: e4576a956b797c584c77aaedfc6e3dd639b61bdc
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  RealReachability: 7ea2093650004e5e30635edbf9d29ce9b9091001
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
+  YYCategories: 6bcd4314c6661a561410dce4a793379ebd306abd
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+  ZBarSDK: 4c1b5daeb7d6cc67dc9355e690af0230a661f6ec
+
+PODFILE CHECKSUM: e38ed240170c8445f4812f55e921aec8b8fce277
+
+COCOAPODS: 1.5.3

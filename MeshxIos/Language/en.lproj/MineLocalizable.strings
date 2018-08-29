@@ -1,0 +1,39 @@
+/* 
+  MineLocalizable.strings
+  MeshXIos
+
+  Created by xiaozhu on 2018/7/6.
+  Copyright © 2018年 xiaozhu. All rights reserved.
+*/
+
+"Me" = "Me";
+
+"Settings" = "Settings";
+"About us" = "About us";
+"Currency Unit" = "Currency Unit";
+"Log Out" = "Log Out";
+"Language" = "Language";
+"My QR Code" = "My QR Code";
+"Save QR Code To Album" = "Save QR Code To Album";
+"My Profile" = "My Profile";
+"Name" = "Name";
+"Gender" = "Gender";
+"Gender Male" = "Male";
+"Gender Female" = "Female";
+"Permission Setting Prompt" = "No permission, go to settings";
+"Version" = "Version";
+"Take Photo" = "Take Photo";
+"Choose from Album" = "Choose from Album";
+"Done" = "Done";
+"Retake" = "Retake";
+"Use photo" = "Use photo";
+"Photos" = "Photos";
+"Automatic" = "Automatic";
+"Open" = "Open";
+"Close" = "Close";
+"Aubout us description" = "Meshx is a decentralized IoE ecosystem, in which numerous mesh-based network access points cooperate and coordinate with each other. It features with high-speed bandwidth, dynamic self-organizing, self-configuring, self-maintenance,and etc, as well as has other characteristics such as rapid deployment、easily deployment、easily installment、non-line-of-sight(NLOS) transmission,etc.";
+"Detect new version" = "Detect new version";
+"No network communication" = "No network communication";
+"prompt" = "prompt";
+"You have turned off no network communication, go to the settings" = "You have turned off no network communication, go to the settings";
+"Use no network communication, you need to turn on the wifi or Bluetooth switch. If you want to search for people who use Android phones nearby, please be sure to turn on the Bluetooth switch" = "Use no network communication, you need to turn on the wifi or Bluetooth switch. If you want to search for people who use Android phones nearby, please be sure to turn on the Bluetooth switch";

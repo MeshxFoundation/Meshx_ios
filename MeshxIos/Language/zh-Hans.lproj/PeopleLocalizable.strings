@@ -1,0 +1,20 @@
+/* 
+  PeopleLocalizable.strings
+  MeshXIos
+
+  Created by xiaozhu on 2018/7/6.
+  Copyright © 2018年 xiaozhu. All rights reserved.
+*/
+"People" = "人脉";
+"New Friends" = "新的朋友";
+"No peoples, go add peoples~" = "暂无好友，快去添加好友吧～";
+"Add People" = "添加好友";
+"Friend" = "好友";
+"Messages" = "发送信息";
+"Added" = "已同意";
+"Add" = "添加";
+"View" = "查看";
+"Request sent" = "等待验证";
+"Expired" = "已过期";
+"Approve" = "通过验证";
+"Profile" = "详情资料";

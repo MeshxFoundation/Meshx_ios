@@ -1,0 +1,21 @@
+/* 
+  PeopleLocalizable.strings
+  MeshXIos
+
+  Created by xiaozhu on 2018/7/6.
+  Copyright © 2018年 xiaozhu. All rights reserved.
+*/
+
+"People" = "Peoples";
+"New Friends" = "New Friends";
+"No peoples, go add peoples~" = "No peoples, go add peoples~";
+"Add People" = "Add People";
+"Friend" = "Friend";
+"Messages" = "Messages";
+"Added" = "Added";
+"Add" = "Add";
+"View" = "View";
+"Request sent" = "Request sent";
+"Expired" = "Expired";
+"Approve" = "Approve";
+"Profile" = "Profile";

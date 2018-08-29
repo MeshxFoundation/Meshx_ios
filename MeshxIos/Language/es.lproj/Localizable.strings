@@ -1,0 +1,468 @@
+/* 
+  Localizable.strings
+  MeshXIos
+
+  Created by xiaozhu on 2018/7/6.
+  Copyright © 2018年 xiaozhu. All rights reserved.
+*/
+
+
+
+/* No comment provided by engineer. */
+"Keystore" = "Keystore";
+
+/* No comment provided by engineer. */
+"Keystore密码" = "Contraseña";
+
+/* No comment provided by engineer. */
+"Mesh地址" = "Dirección";
+
+/* No comment provided by engineer. */
+"Mesh成功，广播中" = "Exitoso, difusión";
+
+/* No comment provided by engineer. */
+"一旦丢失将无法找回!" = "¡Una vez perdido, no podrás recuperarlo!";
+
+/* No comment provided by engineer. */
+"下一步" = "Siguiente paso";
+
+/* No comment provided by engineer. */
+"两次密码不一致" = "las contraseñas  no coinciden";
+
+/* No comment provided by engineer. */
+"二维码" = "Código QR";
+
+/* No comment provided by engineer. */
+"二维码生成信息不能为空" = "La información no puede estar vacía";
+
+/* No comment provided by engineer. */
+"交易备注" = "Observaciones";
+
+/* No comment provided by engineer. */
+"钱包密码" = "Contraseña";
+
+/* No comment provided by engineer. */
+"钱包密码错误" = "Contraseña incorrecta";
+
+/* No comment provided by engineer. */
+"交易市值 ￥0.0" = "Dinero ¥ 0.0";
+
+/* No comment provided by engineer. */
+"交易记录" = "Registro de transacciones";
+
+/* No comment provided by engineer. */
+"交易详情" = "Detalles de la transacción";
+
+/* No comment provided by engineer. */
+"人民币" = "CNY";
+
+/* No comment provided by engineer. */
+"从相册选取" = "Biblioteca";
+
+/* No comment provided by engineer. */
+"修改" = "Modificar";
+
+/* No comment provided by engineer. */
+"分享失败" = "Falla";
+
+/* No comment provided by engineer. */
+"分享成功" = "Éxito";
+
+/* No comment provided by engineer. */
+"分享给你" = "Compartir";
+
+/* No comment provided by engineer. */
+" 创建成功" = " Creado con éxito";
+
+/* No comment provided by engineer. */
+"删除" = "Eliminar";
+
+/* No comment provided by engineer. */
+"删除提示！" = "Eliminar sugerencias!";
+
+/* No comment provided by engineer. */
+"助记词" = "Mnemónico";
+
+/* No comment provided by engineer. */
+"助记词 %@ 有误" = "Mnemónico es incorrecto: %@";
+
+/* No comment provided by engineer. */
+"助记词个数有误" = "Necesita 12 teclas mnemotécnicas";
+
+/* No comment provided by engineer. */
+"助记词有误" = "Mnemonic Error";
+
+/* No comment provided by engineer. */
+"助记词用于恢复钱包或重置钱包密码，将它准确地抄写到纸上，并存放在只有你知道的安全的地方。" = "El  mnemónico se utiliza para restaurar la billetera o restablecer la  contraseña de la billetera, copiarla con exactitud en papel y guardarla  en un lugar seguro que solo usted conoce.";
+
+/* No comment provided by engineer. */
+"助记词验证错误" = "Error de verificación";
+
+/* No comment provided by engineer. */
+"去开启" = "Abierto";
+
+/* No comment provided by engineer. */
+"取消" = "Cancelar";
+
+/* No comment provided by engineer. */
+"名称" = "Nombre";
+
+/* No comment provided by engineer. */
+"啦啦啦啦啦啦啦" = "para prueba";
+
+/* No comment provided by engineer. */
+"在此粘贴以太坊钱包Keystore文件内容。或通过生成keystore内容的二维码，扫描录入。" = "Copie Keystore JSON, o escanee el QRcode.";
+
+/* No comment provided by engineer. */
+"在此输入助记词，用空格分隔" = "ngrese la frase entregada en el espacio.";
+
+/* No comment provided by engineer. */
+"在此输入明文私钥" = "Ingrese la clave privada";
+
+/* No comment provided by engineer. */
+"填入Gas ,推荐范围100000" = "Gas, rango recomendado 100000";
+
+/* No comment provided by engineer. */
+"填入Gas Price,推荐范围1~20" = "Precio del gas, rango recomendado 1 ~ 20";
+
+/* No comment provided by engineer. */
+"填入钱包密码" = "Contraseña";
+
+/* No comment provided by engineer. */
+"填入接收钱包地址（可扫描）" = "Complete la dirección de recepción (escaneable)";
+
+/* No comment provided by engineer. */
+"填入数量" = "Cantidad";
+
+/* No comment provided by engineer. */
+"备份/导出钱包" = "Copia de seguridad / exportación";
+
+/* No comment provided by engineer. */
+"备份助记词" = "Mnemotécnico de rImportespaldo";
+
+/* No comment provided by engineer. */
+"复制Keystore" = "Copiar Keystore";
+
+/* No comment provided by engineer. */
+"复制地址" = "Copiar dirección";
+
+/* No comment provided by engineer. */
+"复制成功" = "Copia exitosa";
+
+/* No comment provided by engineer. */
+"复制明文私钥" = "Copiar clave privada";
+
+/* No comment provided by engineer. */
+"安全警告：私钥未经加密，导出存在风险，建议使用Keystore进行备份。" = "Advertencia  de seguridad: la clave privada no está encriptada. La exportación es  arriesgada. Se recomienda usar Keystore para la copia de  seguridad.";
+"安全警告：数据未经加密，截屏导出存在风险，建议使用Keystore进行备份。" = "Advertencia  de seguridad: los datos no están encriptados, y la captura de pantalla  es arriesgada. Se recomienda utilizar Keystore para realizar copias de  seguridad.";
+
+/* No comment provided by engineer. */
+"完成" = "Completar";
+
+/* No comment provided by engineer. */
+"官方钱包" = "Keystore";
+
+/* No comment provided by engineer. */
+"密码" = "Contraseña";
+
+/* No comment provided by engineer. */
+"密码太弱" = "La contraseña es muy débil";
+
+/* No comment provided by engineer. */
+"密码提示" = "Indicador de contraseña";
+
+/* No comment provided by engineer. */
+"密码提示（可不填）" = "Sugerencia (Opcional)";
+
+/* Import Existing Account */
+"导入钱包" = "Importar";
+
+/* No comment provided by engineer. */
+"导出Keystore" = "Exportar Keystore";
+
+/* No comment provided by engineer. */
+"导出明文私钥" = "Exportar clave privada";
+
+/* No comment provided by engineer. */
+"将二维码放入框内，即可自动扫描" = "Céntrate en QRcode y escanea automáticamente.";
+
+/* No comment provided by engineer. */
+"将无法撤销操作" = "No podrá deshacer";
+
+/* No comment provided by engineer. */
+"已复制到剪贴板" = "Copiado";
+
+/* No comment provided by engineer. */
+"开启相机才能扫描二维码哦" = "Necesita autorización de la cámara";
+
+/* No comment provided by engineer. */
+"强烈建议备份并妥善保管mxt秘钥和钱包钱包密码，否则一旦丢失将无法找回！" = "Muy recomendable para realizar copias de seguridad; de lo contrario, seguro se recuperará una vez que se haya perdido.";
+
+/* No comment provided by engineer. */
+"忘记密码？" = "Olvidó su contraseña?";
+
+/* No comment provided by engineer. */
+"总计耗费" = "Costo Total";
+
+/* No comment provided by engineer. */
+"总资产（RMB）" = "Activos totales (RMB)";
+
+/* No comment provided by engineer. */
+"您还没有钱包哦！" = "¡Aún no tienes una billetera!";
+
+/* No comment provided by engineer. */
+"抄写下你的钱包助记词" = "Copia tu billetera mnemónica";
+
+/* No comment provided by engineer. */
+"接收钱包地址" = "Recibiendo dirección";
+
+/* No comment provided by engineer. */
+"提示" = "Nota";
+
+/* No comment provided by engineer. */
+"收款" = "Recibir";
+
+/* No comment provided by engineer. */
+"收款地址" = "Dirección de la colección";
+
+/* Create New Account */
+"新建钱包" = "Crear";
+
+/* No comment provided by engineer. */
+"无法识别该二维码" = "No reconocido el código QR";
+
+/* No comment provided by engineer. */
+"明文私钥" = "Clave privada";
+
+/* Hey Buddy\nCome On\n Create/Reback your fastest wallet */
+"来吧\n创建或恢复您的快钱包" = "Vamos \n crear o restaurar tu billetera rápida";
+
+/* No comment provided by engineer. */
+"正在导入..." = "Importando ...";
+
+/* No comment provided by engineer. */
+"残忍拒绝" = "Rechazar";
+
+/* No comment provided by engineer. */
+"测试数据" = "Prueba";
+
+/* No comment provided by engineer. */
+"添加新资产" = "Agregar nuevos activos";
+
+/* No comment provided by engineer. */
+"矿工奖励" = "Recompensa del minero";
+
+/* No comment provided by engineer. */
+"确定" = "DE ACUERDO";
+
+/* No comment provided by engineer. */
+"确认" = "DE ACUERDO";
+
+/* No comment provided by engineer. */
+"确认你的钱包助记词" = "Confirma tu billetera mnemónica";
+
+/* No comment provided by engineer. */
+"删除钱包" = "Eliminar";
+
+/* No comment provided by engineer. */
+"确认导入" = "Confirmar importación";
+
+/* No comment provided by engineer. */
+"确认新建" = "Confirmar nuevo";
+
+/* No comment provided by engineer. */
+"确认转账" = "Confirmar nuevo";
+
+/* No comment provided by engineer. */
+"稍后再说" = "Más tarde";
+
+/* No comment provided by engineer. */
+"简体中文" = "Chino simplificado";
+
+/* No comment provided by engineer. */
+"编辑" = "Editar";
+
+/* No comment provided by engineer. */
+"美元" = "Dólar";
+
+/* No comment provided by engineer. */
+"设置钱包密码" = "Contraseña";
+
+/* No comment provided by engineer. */
+"该信息不是钱包地址" = "Esta no es una dirección de billetera.";
+
+/* No comment provided by engineer. */
+"语言切换" = "Idioma";
+
+/* No comment provided by engineer. */
+"请先新建钱包！" = "¡Primero crea una nueva billetera!";
+
+/* No comment provided by engineer. */
+"请填入..." = "Por favor ingrese ...";
+
+/* No comment provided by engineer. */
+"请妥善保管钱包密码，" = "Por favor, mantenga segura la contraseña de su billetera";
+
+/* No comment provided by engineer. */
+"请按顺序点击助记词，以确认你的备份正确。" = "Haga clic en el mnemónico para confirmar que su copia de seguridad es correcta.";
+
+/* No comment provided by engineer. */
+"请设置一个不小于8位的钱包密码" = "Establezca una contraseña de no menos de 8 dígitos";
+
+/* No comment provided by engineer. */
+"请输入Gas" = "Por favor ingrese Gas";
+
+/* No comment provided by engineer. */
+"请输入Gas Price" = "Precio del gas";
+
+/* No comment provided by engineer. */
+"请输入钱包密码" = "Ingresa la contraseña";
+
+/* No comment provided by engineer. */
+"请输入数量" = "Cantidad de entrada";
+
+/* No comment provided by engineer. */
+"请输入钱包名称" = "Ingresa un nombre";
+
+/* No comment provided by engineer. */
+"请输入钱包地址" = "Dirección de entrada";
+
+/* No comment provided by engineer. */
+"请选择备份/导出钱包方式" = "Elija la cartera de copia de seguridad / exportación wallet";
+
+/* No comment provided by engineer. */
+"请选择系统语言" = "Seleccionar idioma";
+
+/* No comment provided by engineer. */
+"请选择货币单位" = "Seleccionar unidad";
+
+/* No comment provided by engineer. */
+"账户不存在" = "La cuenta no existe";
+
+/* No comment provided by engineer. */
+"货币单位" = "Unidad";
+
+/* No comment provided by engineer. */
+"转账" = "Enviar";
+
+/* No comment provided by engineer. */
+"交易成功" = "Éxito";
+"交易失败" = "Falla";
+
+/* No comment provided by engineer. */
+"转账数量" = "Cantidad";
+
+/* No comment provided by engineer. */
+"输入不小于8位的钱包密码" = "Ingresa la contraseña";
+
+/* No comment provided by engineer. */
+"输入钱包密码" = "Ingresa la contraseña";
+
+/* No comment provided by engineer. */
+"输入密码提示（可不填）" = "Ingrese la sugerencia (Opcional)";
+
+/* No comment provided by engineer. */
+"输入钱包名称" = "Ingresa un nombre";
+
+/* No comment provided by engineer. */
+"重复" = "Repetir";
+
+/* No comment provided by engineer. */
+"默认" = "Defecto";
+
+/* No comment provided by engineer. */
+"重复钱包密码" = "Repetir";
+
+/* No comment provided by engineer. */
+"重复钱包钱包密码" = "Repetir";
+
+/* No comment provided by engineer. */
+"重要提示：1.请离线保存；2.请勿使用网络传输；3.二维码禁止保存、截图和拍照，确保在四周无人和摄像头环境下扫码。" = "Importante:  1. Guarde sin conexión; 2. No use transmisión de red; 3. El código QR  prohíbe guardar, captura de pantalla y tomar fotografías, para  garantizar el código de escaneo en el entorno y entorno de la cámara.";
+
+/* No comment provided by engineer. */
+"重要操作验证" = "Verificación de contraseña";
+
+/* No comment provided by engineer. */
+"钱包二维码" = "Código QR de Wallet";
+
+/* No comment provided by engineer. */
+"钱包切换" = "Cambio de billetera";
+
+/* No comment provided by engineer. */
+"钱包删除后，将无法撤销操作，请确保已备份钱包私钥！" = "Una vez que se borre la billetera, no podrá deshacerla. ¡Asegúrese de haber respaldado la clave privada de su billetera!";
+
+/* No comment provided by engineer. */
+"钱包名称" = "Nombre";
+
+/* No comment provided by engineer. */
+"钱包地址" = "Dirección";
+
+/* No comment provided by engineer. */
+"暂无交易记录" = "Sin historial de transacciones";
+
+/* No comment provided by engineer. */
+"Gas Limit太低" = "El límite de gas es demasiado bajo";
+
+/* No comment provided by engineer. */
+"Gas Limit太低,已改为最低预估:" = "Límite de gas demasiado bajo, necesita sobre:";
+
+/* No comment provided by engineer. */
+"创建或导入您的钱包" = "Crea o importa tu billetera";
+
+/* No comment provided by engineer. */
+"默认" = "Defecto";
+"总资产" = "Total de activos";
+"扫描" = "Escaneo";
+"  转账" = "  Transferir";
+"  收款" = "  Recibo.";
+"余额" = "Balance";
+"慢" = "Lento";
+"快" = "Rápido";
+"创建中..." = "Creando...";
+"收款金额" = "Monto";
+"收款数量" = "Cantidad";
+"复制" = "Copia";
+"取消" = "Cancelar";
+"发现剪贴板地址" = "Dirección del portapapeles encontrado";
+"发现已注册地址" = "Dirección registrada encontrada";
+"扫描二维码"= "Escanear código QR...";
+"相机不可用"= "La cámara no está disponible";
+"搜索中..."= "Buscando...";
+"识别中..."= "Identificación...";
+"未找到以太坊域名"= "Dominio Ethereum no encontrado";
+"未找到二维码"= "No se encontró código QR";
+"输入以太坊域名"= "Ingrese el nombre de dominio Ethereum";
+"请在设置中启用相机" = "Por favor active la cámara en la configuración";
+"请在设置中启用相册" = "Por favor habilite álbumes en la configuración";
+"搜索以太坊域名" = "Buscar Ethereum Nombre de Dominio";
+"查询交易" = "Transacción de consulta";
+"管理" = "Gestión";
+
+/*交易记录详情*/
+"交易类型" = "Tipo";
+"付款钱包" = "De";
+"收款钱包" = "A";
+"交易时间" = "Hora";
+"交易备注" = "Observaciones";
+"网络" = "Red";
+"区块高度" = "Altura del bloque";
+"交易号" = "Número de transacción";
+"密码验证中..." = "Verificación de contraseña...";
+"自定义Gas Limit,ETH转账为21000,代币或合约按需填写" = "Gas personalizado";
+"自定义Gas Price,一般为(20~100)Gwei" = "Precio de Gas Personalizado";
+"广播中" = "Pendiente";
+"费用核算中..." = "Contabilidad de costes...";
+
+"汇率转换" = "Conversión de tasa";
+"添加资产" = "Agregar activos";
+"扫描二维码支付" = "Escanear el pago del código QR";
+"设置收款金额" = "Establecer el monto del pago";
+"收款数量" = "Cantidad de recibos";
+"复制支付地址" = "Copie la dirección de pago";
+
+"*密码用于保护私钥和交易授权" = "* La contraseña se usa para proteger claves privadas y autorizaciones de transacciones";
+"*Meshx将不会存储密码,请务必谨记" = "* Meshx no almacenará contraseñas, por favor asegúrese de recordar";
+
+
+
+

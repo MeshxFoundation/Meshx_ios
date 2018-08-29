@@ -1,0 +1,22 @@
+/* 
+  LoginLocalizable.strings
+  MeshXIos
+
+  Created by xiaozhu on 2018/7/6.
+  Copyright © 2018年 xiaozhu. All rights reserved.
+*/
+
+"Username" = "用户名";
+"Password" = "密码";
+"Log In" = "登录";
+"Enter Password" = "请输入密码";
+"Enter Username" = "请输入用户名";
+"Sign Up" = "注册";
+"Forget Password" = "忘记密码";
+"Confirm Password" = "确认密码";
+"Inconsistent Password" = "密码与确认密码不一致";
+"Registration failed" = "注册失败";
+"Registration timeout" = "注册超时";
+"RegistrationFailedUserAlreadyExists" = "注册失败，该用户已存在";
+"Not connected to the server" = "未连接上服务器";
+"Login failed" = "登录失败";

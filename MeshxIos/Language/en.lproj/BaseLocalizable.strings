@@ -1,0 +1,24 @@
+/* 
+  BaseLocalizable.strings
+  MeshxIos
+
+  Created by xiaozhu on 2018/7/25.
+  Copyright © 2018年 Mobile. All rights reserved.
+*/
+
+"Search" = "Search";
+"Cancel" = "Cancel";
+"Fail" = "Fail";
+"Success" = "Success";
+"OK" = "OK";
+"Delete" = "Delete";
+
+
+"Yesterday" = "Yesterday";
+"Monday" = "Monday";
+"Tuesday" = "Tuesday";
+"Wednesday" = "Wednesday";
+"Thursday" = "Thursday";
+"Friday" = "Friday";
+"Saturday" = "Saturday";
+"Sunday" = "Sunday";

@@ -1,0 +1,37 @@
+/* 
+  MineLocalizable.strings
+  MeshXIos
+
+  Created by xiaozhu on 2018/7/6.
+  Copyright © 2018年 xiaozhu. All rights reserved.
+*/
+"Me" = "Yo";
+"Settings" = "Configuraciones";
+"About us" = "Sobre nosotros";
+"Currency Unit" = "Unidad monetaria";
+"Log Out" = "Cerrar sesión";
+"Language" = "Idioma";
+"My QR Code" = "Mi código QR";
+"Save QR Code To Album" = "Guarda el código QR en el álbum";
+"My Profile" = "Mi perfil";
+"Name" = "Nombre";
+"Gender" = "Género";
+"Gender Male" = "Hombre";
+"Gender Female" = "Mujer";
+"Permission Setting Prompt" = "Solicitud de configuración de permiso";
+"Version" = "Versión";
+"Take Photo" = "Tomar foto";
+"Choose from Album" = "Elige de Álbum";
+"Done" = "Completar";
+"Retake" = "Retomar";
+"Use photo" = "Usar foto";
+"Photos" = "Foto";
+"Automatic" = "Automático";
+"Open" = "Abierto";
+"Close" = "Cerrar";
+"Aubout us description" = "Meshx es una Internet del Todo descentralizada, que incluye la cooperación y coordinación entre muchos puntos de acceso a la red basados en la distribución de redes. Tiene las características de ancho de banda de alta velocidad, autoorganización dinámica, autoconfiguración, mantenimiento propio, etc. Y fácil de instalar, transmisión sin línea de vista (NLOS) y otras características。";
+"Detect new version" = "Detectar nueva versión";
+"No network communication" = "Sin comunicación de red";
+"prompt" = "prompt";
+"You have turned off no network communication, go to the settings" = "Has desactivado la comunicación de red, ve a la configuración";
+"Use no network communication, you need to turn on the wifi or Bluetooth switch. If you want to search for people who use Android phones nearby, please be sure to turn on the Bluetooth switch." = "No use comunicación de red, debe activar el wifi o el interruptor Bluetooth. Si desea buscar personas que usen teléfonos Android cercanos, asegúrese de activar el interruptor Bluetooth.";

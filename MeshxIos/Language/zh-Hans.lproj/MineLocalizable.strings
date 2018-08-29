@@ -1,0 +1,37 @@
+/* 
+  MineLocalizable.strings
+  MeshXIos
+
+  Created by xiaozhu on 2018/7/6.
+  Copyright © 2018年 xiaozhu. All rights reserved.
+*/
+"Me" = "我的";
+"Settings" = "设置";
+"About us" = "关于我们";
+"Currency Unit" = "货币单位";
+"Log Out" = "退出登录";
+"Language" = "系统语言";
+"My QR Code" = "我的二维码";
+"Save QR Code To Album" = "保存二维码到相册";
+"My Profile" = "个人资料";
+"Name" = "名字";
+"Gender" = "性别";
+"Gender Male" = "男";
+"Gender Female" = "女";
+"Permission Setting Prompt" = "没有权限，是否前往设置";
+"Version" = "版本号";
+"Take Photo" = "拍照";
+"Choose from Album" = "从相册选择图片";
+"Done" = "完成";
+"Retake" = "重拍";
+"Use photo" = "使用照片";
+"Photos" = "照片";
+"Automatic" = "自动";
+"Open" = "打开";
+"Close" = "关闭";
+"Aubout us description" = "Meshx是一个去中心化的万物互联生态，包含基于网状分布的众多网络接入点间的相互合作和协同，具有高速带宽、动态自组织、自配置、自维护等突出特点,兼具快速部署和易于安装、非视距传输(NLOS)等特性。";
+"Detect new version" = "检测新版";
+"No network communication" = "无网通讯";
+"prompt" = "提示";
+"You have turned off no network communication, go to the settings" = "您已经关闭无网通讯，是否前往设置";
+"Use no network communication, you need to turn on the wifi or Bluetooth switch. If you want to search for people who use Android phones nearby, please be sure to turn on the Bluetooth switch." = "使用无网通讯，需要打开wifi或蓝牙开关，如果要搜索附近使用安卓手机的人，请务必打开蓝牙开关";
